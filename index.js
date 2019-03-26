@@ -37,3 +37,9 @@ let nome = "Matheus";
 let idade = 18;
 
 console.log(`Ele é o ${nome} e tem ${idade} anos`); //Usar " ` " (crase) para interpolar variaveis e strgings ${}
+
+
+let pi = 3.14,
+    natal = "25 de Dezembro";
+
+console.log(`pi é igual a ${pi} e natal é dia ${natal}`);
