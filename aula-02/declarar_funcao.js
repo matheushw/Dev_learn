@@ -6,7 +6,7 @@ const soma2 = function (a,b) {
     return a+b;
 }
 
-//Melhores maneiras de declarar funções (sem falha de emcapsulamento).
+//Melhores maneiras de declarar funções (sem falha de encapsulamento).
 
 const soma3 = (a,b) => {
     return a+b;
