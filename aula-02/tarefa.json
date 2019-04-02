@@ -1,0 +1,13 @@
+{
+    "para": "02/abr",
+    "o que": {
+        "exercícios de fixação": [
+            "index.js",
+            "calculadora.js",
+            "logica.js"
+        ],
+        "exercícios de aprofundamento": [
+            "condicional.js"
+        ]
+    }
+}
